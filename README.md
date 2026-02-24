@@ -15,6 +15,7 @@ I am currently in the beginner phase of cybersecurity and actively building my k
 - Cybersecurity concepts
 - Ethical hacking fundamentals
 - Web security basics
+- Google drive link for Cybersecurity books https://drive.google.com/drive/folders/1AD5S4hBE5jh5mf40M5ktKr_8aSUppyB-?usp=sharing
 
 This repository documents my theoretical understanding and learning progress.
 
